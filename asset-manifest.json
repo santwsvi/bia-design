@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bia-design/static/css/main.e6657369.css",
-    "main.js": "/bia-design/static/js/main.06dbb51c.js",
+    "main.css": "/bia-design/static/css/main.53b1140a.css",
+    "main.js": "/bia-design/static/js/main.83dd88cd.js",
     "static/media/escola-do-sebrae-30.jpg": "/bia-design/static/media/escola-do-sebrae-30.5335790f370fd3492290.jpg",
     "static/media/sebrae-nej.jpg": "/bia-design/static/media/sebrae-nej.2e932bb1707376eb1140.jpg",
     "static/media/sebrae-convite.jpg": "/bia-design/static/media/sebrae-convite.7a89a2304a1ae09e627e.jpg",
@@ -21,11 +21,11 @@
     "static/media/flux-banner-preto.jpg": "/bia-design/static/media/flux-banner-preto.3af44c338ae80d26b240.jpg",
     "static/media/bc_preto.png": "/bia-design/static/media/bc_preto.a588fe9268be2a7b6c4a.png",
     "index.html": "/bia-design/index.html",
-    "main.e6657369.css.map": "/bia-design/static/css/main.e6657369.css.map",
-    "main.06dbb51c.js.map": "/bia-design/static/js/main.06dbb51c.js.map"
+    "main.53b1140a.css.map": "/bia-design/static/css/main.53b1140a.css.map",
+    "main.83dd88cd.js.map": "/bia-design/static/js/main.83dd88cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6657369.css",
-    "static/js/main.06dbb51c.js"
+    "static/css/main.53b1140a.css",
+    "static/js/main.83dd88cd.js"
   ]
 }
